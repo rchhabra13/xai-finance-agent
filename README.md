@@ -31,8 +31,8 @@ An advanced financial analysis agent powered by xAI's Grok model, combining real
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rchhabra13/portfolio-projects.git
-   cd portfolio-projects/xai_finance_agent
+   git clone https://github.com/rchhabra13/xai_finance_agent.git
+   cd xai_finance_agent
    ```
 
 2. **Install dependencies**
